@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a software Engineer who currently solves problem at [Cyberspace](https://www.cyberspace.net.ng/).
+- 🔭 I’m a software Engineer who builds solution and currently solves problem at [Cyberspace](https://www.cyberspace.net.ng/). 
+
 - 🌱 I’m currently learning Azure Devops.
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about Problem Solving,Science  -->
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
-- 😄 Pronouns: he
+- 😄 Pronouns: He
 - ⚡ Fun fact: I Deliver.
 
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about Problem Solving,Science  -->
