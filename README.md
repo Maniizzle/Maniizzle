@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m a software Engineer who builds solution and currently solves problem at [Cyberspace](https://www.cyberspace.net.ng/). 
 
-- 🌱 I’m currently learning Azure Devops.
+- 🌱 I’m currently learning Everything Azure.
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Deliver.
