@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a software Engineer who builds solution and currently solves problem at [Cyberspace](https://www.cyberspace.net.ng/). 
+- 🔭 I’m a software Engineer who solves problem by building solutions. 
 
-- 🌱 I’m currently learning Everything Cloud.
+- 🌱 I’m currently learning Cloud Technologies.
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Deliver.
