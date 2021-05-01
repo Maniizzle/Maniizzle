@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a software Engineer who solves problem by building solutions. 
+- 🔭 I’m a software Engineer who loves solving problem. 
 
 - 🌱 I’m currently learning Cloud Technologies.
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I Deliver.
+- ⚡ Fun fact: I Learn and Deliver.
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Problem Solving,Science  -->
