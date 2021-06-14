@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m a software Engineer who loves solving problem. 
 
-- 🌱 I’m currently learning Cloud Technologies.
+- 🌱 I’m currently learning Cloud Technologies(AWS and Azure).
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Learn and Deliver.
