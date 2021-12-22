@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and building Cloud Technologies(AWS and Azure).
 - 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I Learn and Deliver.
+- ⚡ Fun fact: I Learn, Design and Deliver.
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Problem Solving,Science  -->
