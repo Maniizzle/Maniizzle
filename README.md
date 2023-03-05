@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a software Engineer who loves solving real world problems using technology.
+- 🔭 I’m a software Engineer with 4 years experience, who loves solving real world problems using technology.
 
 - 🌱 Currently building software with Cloud Technologies.
 - 📫 How to reach me:DM [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
