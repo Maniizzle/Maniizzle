@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a software Engineer who loves solving real world problems using technology.
 
 - 🌱 Currently building software with Cloud Technologies.
-- 📫 How to reach me:DM @ [Maniizzle](https://twitter.com/MaNiiZZle), [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
+- 📫 How to reach me:DM [Linkedin](https://www.linkedin.com/in/olamide-onakoya/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I Learn, Design,Build and Deliver.
 
